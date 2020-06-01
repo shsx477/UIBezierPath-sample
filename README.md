@@ -1,5 +1,7 @@
 # UIBezierPath-sample
 
+<img src="sample-image.png" width="40%"/>
+
 ### 참조 링크
 
 ### [iOS ) UIBezierPath (1)](https://zeddios.tistory.com/814)
